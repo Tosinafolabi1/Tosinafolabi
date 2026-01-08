@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Designed a comprehensive Cybersecurity program using the NIST Framework</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - (https://github.com/Tosinafolabi1/Comprehensive-Cybersecurity-program-using-NIST-framework/tree/main)
 - <b>My certifications</b>
   - https://www.credly.com/users/afolabi-tosin/badges#credly
 
